@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Nvidia Docker and AWS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/yichen-wu-198951234</h3>
 <p align="left">
 </p>
 
