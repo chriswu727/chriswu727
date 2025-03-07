@@ -9,7 +9,8 @@
 - 🎓 **Master of Science in Computer Engineering** – Northwestern University  
 
 ### 🔭 What I'm Working On
-- 🖥️ Optimizing **Nvidia Docker** for ML/AI workloads  
+- 🖥️ Optimizing **Nvidia Docker** for ML/AI workloads
+- ☸️ Developing **Kubernetes-based AI applications** for scalable and efficient deployments 
 - ☁️ Architecting **AWS** solutions for scalable cloud infrastructure  
 
 ### 🌐 Connect with Me
