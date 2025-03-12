@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yichen</h1>
-<h3 align="center">A Passionate Backend Engineer & AWS Certified Solutions Architect</h3>
+<h3 align="center">A Passionate k8s Backend Engineer & AWS Certified Solutions Architect</h3>
 
 💡 I love designing scalable backend systems and working with cloud-native technologies.  
 🚀 Constantly exploring high-performance computing, AI infrastructure, and distributed systems.  
