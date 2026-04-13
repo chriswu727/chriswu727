@@ -9,8 +9,8 @@ Constantly exploring LLM orchestration, AI infrastructure, and distributed syste
 - **Master of Science in Computer Engineering** – Northwestern University  
 
 ### What I'm Working On
-- **[Argus](https://github.com/chriswu727/argus)** — AI-powered QA testing agent. Explores web apps like a real user, auto-verifies every action. 18 MCP tools, 16 detection types. `pip install argus-testing`
-- **[Sibyl](https://github.com/chriswu727/sibyl)** — AI deep research agent. Multi-source search, SWOT, comparisons, Google Trends, financial charts. 11 MCP tools. `pip install sibyl-research`
+- **[Argus](https://github.com/chriswu727/argus)** — AI-powered exploratory QA testing agent. Finds bugs that scripted tests miss.
+- **[Sibyl](https://github.com/chriswu727/sibyl)** — AI deep research agent. Multi-source analysis with structured reports and predictions.
 - Optimizing **Nvidia Docker** for ML/AI workloads
 - Developing **Kubernetes-based AI applications** for scalable and efficient deployments 
 - Architecting **AWS** solutions for scalable cloud infrastructure  
