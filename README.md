@@ -1,19 +1,19 @@
 <h1 align="center">Hi, I'm Yichen</h1>
-<h3 align="center">AI Engineer | System Design | Scalable AI Applications</h3>
+<h3 align="center">AI Engineer & System Designer | Building Scalable AI Applications</h3>
 
-I design and build production-grade AI systems — multi-provider LLM orchestration, async pipelines, MCP protocol integration, and automated verification at scale. Focused on turning AI capabilities into real products people use.
-
-### What I'm Building
-
-**[Argus](https://github.com/chriswu727/argus)** — AI-Powered QA Testing Agent  
-Explores web apps like a real user and finds bugs scripted tests miss. 18 MCP tools with compound actions (test_form, test_crud) that auto-verify every operation. Multi-layer detection pipeline: console/network errors → state verification → cross-page consistency → SEO/a11y/performance. Async Playwright driver, concurrent link crawling, smart selector engine. `pip install argus-testing`
-
-**[Sibyl](https://github.com/chriswu727/sibyl)** — AI Deep Research Agent  
-Searches 4 engines in parallel, scrapes 15-20 sources concurrently, runs multi-step analysis (sub-question decomposition → iterative gap-filling → cross-source sentiment analysis → section-by-section synthesis → review), and generates PDF reports with embedded financial charts. 11 MCP tools including structured comparisons, SWOT, Google Trends, timelines. Multi-provider routing (DeepSeek/Gemini/GLM/OpenAI). `pip install sibyl-research`
+I love designing scalable systems and turning AI capabilities into real products.  
+Constantly exploring LLM orchestration, AI infrastructure, and distributed systems.  
 
 ### Education
 - **Bachelor of Science in Computer Engineering** – University of Illinois at Urbana-Champaign  
 - **Master of Science in Computer Engineering** – Northwestern University  
+
+### What I'm Working On
+- **[Argus](https://github.com/chriswu727/argus)** — AI-powered QA testing agent. Explores web apps like a real user, auto-verifies every action. 18 MCP tools, 16 detection types. `pip install argus-testing`
+- **[Sibyl](https://github.com/chriswu727/sibyl)** — AI deep research agent. Multi-source search, SWOT, comparisons, Google Trends, financial charts. 11 MCP tools. `pip install sibyl-research`
+- Optimizing **Nvidia Docker** for ML/AI workloads
+- Developing **Kubernetes-based AI applications** for scalable and efficient deployments 
+- Architecting **AWS** solutions for scalable cloud infrastructure  
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yichen-wu-198951234)  
