@@ -1,38 +1,39 @@
-<h1 align="center">Hi, I'm Yichen</h1>
-<h3 align="center">Production AI + Full-Stack Engineer</h3>
+# Hi, I’m Yichen
 
-I build AI systems end to end—computer vision, generative AI, agent tooling, and the full-stack systems around them—with reliable workflows and clear failure handling in production.
+**Software Engineer - Production AI Platform**
 
-### What I'm Building
+I work at DaoAI Robotics, building backend software for AI agents, media generation, and video analytics. My personal projects explore AI developer tools and building complete products with AI assistance.
 
-- At **DaoAI Robotics**, I work on production video analytics and generative AI platforms, spanning workflow validation, multi-object tracking, multimodal product workflows, and persistent asynchronous job orchestration.
-- In open source, I build AI agents and developer tools whose work can be inspected, reproduced, and verified.
+[Portfolio](https://yichenwu.dev) · [Resume](https://yichenwu.dev/resume.pdf) · [Email](mailto:yichenwujob@gmail.com)
 
-### Selected Systems
+### My work at DaoAI Robotics
 
-- **[Loop Agent](https://github.com/chriswu727/loop-agent)** — Autonomous software delivery from a product brief to a verified implementation, with reviewable artifacts, Git changes, and a replayable receipt.
-- **[Argus](https://github.com/chriswu727/argus)** — Evidence-first MCP QA for web and native macOS apps, with clean-state reproduction and verified bug replay in CI.
-- **[Sibyl](https://github.com/chriswu727/sibyl)** — Web research for AI agents with keyless multi-source retrieval, passage-level evidence ranking, source clustering, and citation-backed reports.
-- **[Scalable Starter](https://github.com/chriswu727/scalable-starter)** — A production-shaped Next.js and FastAPI foundation with Postgres, Redis-backed workers, observability, and Kubernetes deployment.
-- **[Agent Duet](https://github.com/chriswu727/agent-duet)** — Local Codex and Claude Code collaboration with independent review, finite rounds, machine checks, and guarded Git application.
+- **AI Film Platform** — I develop the Director Agent backend and contribute to shared image, video, and audio generation services, including agent execution, conversation history, and background task handling.
+- **Video Analytics Platform** — I developed processing logic for 20+ reusable nodes, including object tracking and traffic analytics, along with workflow validation.
 
-### Technical Focus
+### Selected projects
 
-- **Languages:** Python, TypeScript, JavaScript, SQL
-- **AI / ML / CV:** LLM and VLM APIs, agent and tool orchestration, PyTorch, NumPy, SciPy, OpenCV, multi-object tracking, OCR
-- **Backend & Data:** FastAPI, Celery, asyncio, SQLAlchemy, Pydantic, Redis, PostgreSQL, WebSockets
-- **Frontend & Media:** React, Next.js, Tailwind CSS, FFmpeg
-- **Cloud & Delivery:** AWS, Docker, Kubernetes, Helm, GitHub Actions
-- **Testing:** pytest, Playwright, Vitest
+| Project | What it does |
+|---|---|
+| **[Argus](https://github.com/chriswu727/argus)** | Helps AI coding assistants test web apps, recheck suspected issues, and save findings with evidence developers can review. |
+| **[Sibyl](https://github.com/chriswu727/sibyl)** | Helps AI assistants research the web with source-linked passages, making the evidence behind an answer easier to inspect. |
+| **[Myth Atlas](https://github.com/chriswu727/myth-atlas)** | A live bilingual mythology atlas with an interactive map, search, and story comparisons. Built with AI assistance across implementation, content collection, and selected illustrations. |
 
-### Education & Certifications
+[Try Myth Atlas](https://myth-atlas.vercel.app/en) · [More about these projects](https://yichenwu.dev/#work)
 
-- **MS in Computer Engineering** — Northwestern University
-- **BS in Computer Engineering** — University of Illinois Urbana-Champaign, Dean's List
-- **AWS Certified Solutions Architect – Associate** and **AWS Certified Cloud Practitioner**
+### Technologies I work with
 
-### Connect
+**Python · TypeScript · FastAPI · PostgreSQL · Redis · Celery · React · Next.js · Docker · AWS**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yichenwu.dev-111111?style=flat&logo=vercel)](https://yichenwu.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yichen-wu-198951234)
-[![Resume](https://img.shields.io/badge/Resume-PDF-B31B1B?style=flat&logo=adobeacrobatreader)](https://yichenwu.dev/resume.pdf)
+### Education
+
+MS in Computer Engineering, **Northwestern University**<br>
+BS in Computer Engineering, **University of Illinois Urbana-Champaign**
+
+AWS Certified Solutions Architect – Associate · AWS Certified Cloud Practitioner
+
+### Get in touch
+
+I have a home base in both Vancouver and Toronto and am open to AI or full-stack engineering roles in either city.
+
+[Email me](mailto:yichenwujob@gmail.com) · [View my resume](https://yichenwu.dev/resume.pdf) · [Visit my website](https://yichenwu.dev)
