@@ -15,7 +15,7 @@ I work at DaoAI Robotics, building backend software for AI agents, media generat
 
 | Project | What it does |
 |---|---|
-| **[Argus](https://github.com/chriswu727/argus)** | Helps AI coding assistants test web apps, recheck suspected issues, and save findings with evidence developers can review. |
+| **[Argus](https://github.com/chriswu727/argus)** | Helps AI coding assistants test web apps, reproduce suspected issues, and export Playwright regression tests for supported findings. |
 | **[Sibyl](https://github.com/chriswu727/sibyl)** | Helps AI assistants investigate complex questions across multiple research rounds, produce reports with traceable sources, and save progress for later continuation. |
 | **[Myth Atlas](https://github.com/chriswu727/myth-atlas)** | A live bilingual mythology atlas with an interactive map, search, and story comparisons. Built with AI assistance across implementation, content collection, and selected illustrations. |
 
