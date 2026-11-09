@@ -1,39 +1,21 @@
-# Hi, I’m Yichen
+# Yichen Wu
 
-**Software Engineer - Production AI Platform**
+Software Engineer - Production AI Platform at DaoAI Robotics. I build AI agents and the backend systems behind them. Open to roles in Vancouver or Toronto.
 
-I work at DaoAI Robotics, building backend software for AI agents, media generation, and video analytics. My personal projects explore AI developer tools and building complete products with AI assistance.
+[Portfolio](https://yichenwu.dev) · [Resume](https://yichenwu.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yichen-wu-198951234/) · [Email](mailto:yichenwujob@gmail.com)
 
-[Portfolio](https://yichenwu.dev) · [Resume](https://yichenwu.dev/resume.pdf) · [Email](mailto:yichenwujob@gmail.com)
+### DaoAI Robotics
 
-### My work at DaoAI Robotics
+- **AI filmmaking agents:** built the backends for the Director Agent, which turns film ideas into editable canvas workflows, and an end-to-end agent that plans, generates and assembles videos in project sandboxes. Contributed to the shared image, video and audio generation backend.
+- **Video analytics platform:** implemented workflow validation and 20+ reusable processing nodes for detection, tracking, OCR, alerting and traffic analytics.
 
-- **AI Film Platform** — I develop the Director Agent backend and contribute to shared image, video, and audio generation services, including agent execution, conversation history, and background task handling.
-- **Video Analytics Platform** — I developed processing logic for 20+ reusable nodes, including object tracking and traffic analytics, along with workflow validation.
+### Projects
 
-### Selected projects
+- **Argus** — MCP tools that help coding agents test web apps systematically: explore user journeys, check edge cases, and deliver evidence-backed bug reports and regression tests for supported findings. [Demo](https://yichenwu.dev/projects/argus) · [Source](https://github.com/chriswu727/argus)
+- **AgentDetox** — protects coding agents’ memory and instructions: blocks known-risk writes, detects suspicious changes, and lets you review and remove selected additions or restore earlier versions. [Demo](https://yichenwu.dev/projects/agentdetox) · [Source](https://github.com/chriswu727/agentdetox)
+- **memBrain** — local memory for AI agents that carries useful context across conversations, recalls relevant history, and lets you review, correct or delete what is remembered. *In development.* [Source](https://github.com/chriswu727/memBrain)
+- **Myth Atlas** — bilingual mythology site with an interactive map, search and story comparisons. Built with AI across code, content collection and selected images; I set the product direction and content structure. [Live site](https://myth-atlas.vercel.app/en) · [Source](https://github.com/chriswu727/myth-atlas)
 
-| Project | What it does |
-|---|---|
-| **[Argus](https://github.com/chriswu727/argus)** | Helps AI coding assistants test web apps, reproduce suspected issues, and export Playwright regression tests for supported findings. |
-| **[Sibyl](https://github.com/chriswu727/sibyl)** | Helps AI assistants investigate complex questions across multiple research rounds, produce reports with traceable sources, and save progress for later continuation. |
-| **[Myth Atlas](https://github.com/chriswu727/myth-atlas)** | A live bilingual mythology atlas with an interactive map, search, and story comparisons. Built with AI assistance across implementation, content collection, and selected illustrations. |
+**Background:** MS Computer Engineering, Northwestern · BS Computer Engineering, UIUC · AWS Certified Solutions Architect – Associate
 
-[Try Myth Atlas](https://myth-atlas.vercel.app/en) · [More about these projects](https://yichenwu.dev/#work)
-
-### Technologies I work with
-
-**Python · TypeScript · FastAPI · PostgreSQL · Redis · Celery · React · Next.js · Docker · AWS**
-
-### Education
-
-MS in Computer Engineering, **Northwestern University**<br>
-BS in Computer Engineering, **University of Illinois Urbana-Champaign**
-
-AWS Certified Solutions Architect – Associate · AWS Certified Cloud Practitioner
-
-### Get in touch
-
-I have a home base in both Vancouver and Toronto and am open to AI or full-stack engineering roles in either city.
-
-[Email me](mailto:yichenwujob@gmail.com) · [View my resume](https://yichenwu.dev/resume.pdf) · [Visit my website](https://yichenwu.dev)
+Python, TypeScript, FastAPI, PostgreSQL, Redis, Celery, React, Next.js, Docker, Kubernetes, AWS
