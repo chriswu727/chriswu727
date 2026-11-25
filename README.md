@@ -1,12 +1,12 @@
 # Yichen Wu
 
-Software Engineer - Production AI Platform at DaoAI Robotics. I build AI agents and the backend systems behind them. Open to roles in Vancouver or Toronto.
+Software Engineer - Production AI Platform at DaoAI Robotics. I build AI agents and the backend systems behind them. Based in Vancouver and open to roles in Vancouver or Toronto.
 
 [Portfolio](https://yichenwu.dev) · [Resume](https://yichenwu.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yichen-wu-198951234/) · [Email](mailto:yichenwujob@gmail.com)
 
 ### DaoAI Robotics
 
-- **AI filmmaking agents:** built the backends for the Director Agent, which turns film ideas into editable canvas workflows, and an end-to-end agent that plans, generates and assembles videos in project sandboxes. Contributed to the shared image, video and audio generation backend.
+- **AI filmmaking agents:** I built the backend and 40+ typed tools for Director, a copilot for editing film workflows on a shared canvas. I also own the agent logic and backend integration for SuperAgent, which plans and executes filmmaking tasks. I took that agent layer from web prototype to desktop product.
 - **Video analytics platform:** implemented workflow validation and 20+ reusable processing nodes for detection, tracking, OCR, alerting and traffic analytics.
 
 ### Projects
